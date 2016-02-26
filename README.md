@@ -1,0 +1,2 @@
+# typecho
+plugins themes
